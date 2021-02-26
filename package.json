@@ -1,0 +1,19 @@
+{
+  "name": "testing-fizzbuzz",
+  "version": "1.0.0",
+  "description": "testing Fizzbuzz function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Me",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
